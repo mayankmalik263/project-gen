@@ -81,7 +81,7 @@ const generateReadme = async (
 
 console.log("Welcome to the Project Generator!");
 
-process.stdout.write("Enter the project name: ");
+console.log("Enter the project name: ");
 
 let inputStage = 0;
 
