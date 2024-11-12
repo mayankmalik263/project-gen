@@ -1,5 +1,9 @@
 # Project Generator
 
+First, make sure you have Ollama installed.
+
+Then, run: `ollama run llama3.2`
+
 To install dependencies:
 
 ```bash
